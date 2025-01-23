@@ -10,6 +10,8 @@ Currently, this is simply a foundation with simple raycasting in markerless AR, 
 2. AR Tutorials: used to demonstrate survival skills such as CPR, fire-making, and earthquake-safe positioning. These demonstrations enhance visual learning by simulating real-world scenarios.
 3. Customization and Accessibility: The app includes features for different demographics, making it accessible to children, elderly individuals, and people with disabilities.
 
+The files have been placed in a google drive link found in link.txt as it surpassed the maximum on github.
+
 Credits: 
 3D Models:
 https://sketchfab.com/3d-models/receiving-cpr-8198305e5efe49d0a35bfb71c0aa0d9c#download
