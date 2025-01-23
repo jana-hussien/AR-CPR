@@ -5,7 +5,7 @@
 ### Problem Statement:  Education Access for Displaced Children
 
 
-Currently, this is simply a foundation with simple raycasting in markerless AR, but we aim to soon have these features be implemented:
+Currently, this is simply a foundation with simple raycasting in markerless AR, soon to be turned into an immersive Augmented Reality CPR tutorial, and we also aim to soon have the following features be implemented:
 1. Geographical-Based Skills: provides specific survival guides based on GPS location data. E.g. users in Japan receive tsunami evacuation tips, users in Gaza receive bomb evacuation tips.
 2. AR Tutorials: used to demonstrate survival skills such as CPR, fire-making, and earthquake-safe positioning. These demonstrations enhance visual learning by simulating real-world scenarios.
 3. Customization and Accessibility: The app includes features for different demographics, making it accessible to children, elderly individuals, and people with disabilities.
